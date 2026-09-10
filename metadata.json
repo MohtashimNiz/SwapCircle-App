@@ -1,0 +1,7 @@
+{
+  "name": "SwapCircle",
+  "description": "A sustainability barter and sharing marketplace where you can exchange items or give them away for free, with location-based discovery and integrated messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
